@@ -11,9 +11,6 @@
 ## 🚀 **Live Portfolio**
 [![Live Site](https://img.shields.io/badge/Live-Portfolio-0ea5e9?style=for-the-badge&logo=netlify&logoColor=white)](https://sairam-saridi-rwd-cert.netlify.app/)
 
-**Projects Repo:** [![Responsive Web Design](https://img.shields.io/badge/Projects-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sairam-saridi/responsive-web-design)  
-**GitHub Profile:** [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sairam-saridi)
-
 ---
 
 ## 📱 **Responsive Web Design Certification Projects**
@@ -27,8 +24,6 @@
 | 💼 **Personal Portfolio** | [![Portfolio](https://img.shields.io/badge/Live-Demo-0ea5e9?style=for-the-badge&logo=netlify&logoColor=white)](https://sairam-saridi-rwd-cert.netlify.app/personal-portfolio/) | [📁 Code](personal-portfolio/) |
 
 </div>
-
-## ✨ **Skills Demonstrated**
 
 ## 🎯 **What I Learned**
 - **Responsive Design**: Mobile-first approach, media queries
