@@ -1,8 +1,7 @@
 <div align="center">
 
-# 👋 Hi, I'm Sairam Saridi
-
-**B.Tech Final Year | Visakhapatnam, AP**
+# Responsive Web Design Certification
+**freeCodeCamp | 300+ Hours | March 2026**
 
 [![Responsive Web Design Certification](https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design-28a745?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://freecodecamp.org/certification/sairam-saridi/responsive-web-design-v9)
 
